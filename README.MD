@@ -1,4 +1,4 @@
-# Responsive Landing Page
+# stopwatch
 
 This Repository consists of a `HTML`,`CSS` and `JAVASCRIPT` Stopwatch Web Applications.
 ## Screenshot
